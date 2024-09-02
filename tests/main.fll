@@ -1,0 +1,6 @@
+System.log("Hello, World!"); System.log(1 + 2); System.log(1); // комментарий
+/* многострочный
+комментарий */
+System.log("ggsel");
+System.log(1 - 2 + 3);
+System.log(1 * 5 / 5); /*прп*/ System.log(1 * (5 / 5 + 3));
